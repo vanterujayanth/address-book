@@ -1,0 +1,14 @@
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\bin\Debug\net8.0\AdressBook.exe
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\bin\Debug\net8.0\AdressBook.deps.json
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\bin\Debug\net8.0\AdressBook.runtimeconfig.json
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\bin\Debug\net8.0\AdressBook.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\bin\Debug\net8.0\AdressBook.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\obj\Debug\net8.0\AdressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\obj\Debug\net8.0\AdressBook.AssemblyInfoInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\obj\Debug\net8.0\AdressBook.AssemblyInfo.cs
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\obj\Debug\net8.0\AdressBook.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\obj\Debug\net8.0\AdressBook.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\obj\Debug\net8.0\refint\AdressBook.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\obj\Debug\net8.0\AdressBook.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\obj\Debug\net8.0\AdressBook.genruntimeconfig.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\AdressBook\AdressBook\obj\Debug\net8.0\ref\AdressBook.dll
